@@ -1,0 +1,101 @@
+.main-container{
+    margin: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+   
+} 
+
+.form-container{
+    /* display: flex; */
+    border:1px solid #ced4da;
+    background: white;
+    border-radius: 4px;
+    padding: 10px;
+}
+
+input, button{
+  margin: 10px 5px;
+  background: #ced4da;
+  border: 1px solid #ced4da;
+  color: black;
+  padding : 10px; 
+  border-radius: 4px;
+
+}
+
+.item{
+  background: #ced4da;
+  border: 1px solid #ced4da; 
+  color: black;
+  margin-bottom: 10px;
+  padding : 10px;
+  border-radius: 4px;
+}
+
+.error-text{
+  color: red;
+}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* body{
+      margin-top: 100px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    
+    
+    }
+    .main-heading{
+      display: flex;
+      flex-direction:column;
+    }
+
+    #main-heading{
+      text-align: center;
+    }
+    .main-container{
+    border:1px solid #ced4da;
+    background: white;
+    border-radius: 4px;
+    }
+    
+    .container{
+      display: flex;
+    }
+    
+    input, button{
+      margin: 10px 5px;
+      background: #ced4da;
+      border: 1px solid #ced4da;
+      color: black;
+      padding : 10px; 
+      border-radius: 4px;
+    
+    }
+    
+    #tasks{
+      margin: 10px 5px;
+    }
+    
+    .item{
+      background: #ced4da;
+      border: 1px solid #ced4da; 
+      color: black;
+      margin-bottom: 10px;
+      padding : 10px;
+      border-radius: 4px;
+    }
+
+     */
